@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Releases Nexus Repository</name>
-	      <url>http://3.6.40.56:8081/repository/Samkrg-release/</url>
+	      <url>http://13.233.124.136:8081/repository/Samkrg-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Snapshot Nexus Repository </name>
-	      <url>http://3.6.40.56:8081/repository/Samkrg-sanpshot/</url>
+	      <url>http://13.233.124.136:8081/repository/Samkrg-sanpshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
