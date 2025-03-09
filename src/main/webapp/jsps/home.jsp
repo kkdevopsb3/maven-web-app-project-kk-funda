@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to SAMKRG</h1>
+<h1 align="center">Welcome to Samkrg</h1>
 <h1 align="center"> KRISHNA </h1>
 <hr>
 <br>
