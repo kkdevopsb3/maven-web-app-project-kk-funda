@@ -34,13 +34,13 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/kkfunda.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		KK FUNDA, 
-		Martha Halli, Banglore,
-		Bangalore,
-		+91-9676831734,+91-9676831734
-		kkeducationblr@gmail.com
+		SAMKRG, 
+		Bonthapally, Hyderabad,
+		Telangana, 502313
+		+91-9542723262,+91-7013833907
+		chaitanya.mechengineer@gmail.com
 		<br>
-		<a href="mailto:kkeducation@gmail.com">Mail to KK FUNDA</a>
+		<a href="chaitanya.mechengineer@gmail.com">Mail to SAMKRG</a>
 	</span>
 </div>
 <hr>
